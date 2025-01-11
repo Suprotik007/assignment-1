@@ -21,7 +21,8 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
   
-  padding-bottom: 40px;
+  padding-bottom: 50%;
+
 }
 nav{
   display: flex;
@@ -233,7 +234,7 @@ align-items: center;
   width: 1280px;
   height: 220px;
   border-radius: 16px;
-  background-image: url(../a-1/assets/quote-bg.png);
+  background-image: url(./assets/quote-bg.png);
   background-repeat: no-repeat;
   background-size: 64px 64px;
   background-position: top left;
